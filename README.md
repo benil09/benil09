@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nilkamal
+- 👀 I’m interested in  web developement
+- 🌱 I’m currently learning javaScript...
